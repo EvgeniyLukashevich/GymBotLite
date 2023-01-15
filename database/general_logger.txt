@@ -1,0 +1,13 @@
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /start
+
+718429143 Evgeniy phive4 Lukashevich пытается добавить photo
+718429143 ДОБАВИЛ AgACAgIAAxkBAAIBHmPEXpFAZ22DE1K1Uv-guKGn0PgIAAIxyDEbKzwhSpADRhfb6idaAQADAgADcwADLQQ
+
+718429143 Evgeniy phive4 Lukashevich пытается добавить video
+718429143 ДОБАВИЛ BAACAgIAAxkBAAIBH2PEXprD91PxCp_9KdkiPxfMy6nFAAKyHQACOvsZSuAS5v4JHNlRLQQ
+
+718429143 Evgeniy phive4 Lukashevich пытается добавить text
+718429143 ДОБАВИЛ https://youtu.be/l-AB7fX10A8
+
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show
+
