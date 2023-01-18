@@ -11,3 +11,68 @@
 
 718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show
 
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show_logger
+
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show_logger
+
+718429143 Evgeniy phive4 Lukashevich пытается добавить photo
+718429143 ДОБАВИЛ AgACAgIAAxkBAAIBLGPEjtDs3fswKjMa9ByV3-KsP8jYAALyyDEboq8pSv0R8Kh7xu4aAQADAgADcwADLQQ
+
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /start
+
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show
+
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /start
+
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show_logger
+
+718429143 Evgeniy phive4 Lukashevich пытается добавить text
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show_logger
+
+718429143 Evgeniy phive4 Lukashevich пытается добавить text
+718429143 Evgeniy phive4 Lukashevich пытается добавить text
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /start
+
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show
+
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show
+
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show_logger
+
+718429143 Evgeniy phive4 Lukashevich пытается добавить video
+718429143 ДОБАВИЛ BAACAgIAAxkBAAIBUWPEoBwh50b3pkbhiOMRH0pMhQoaAAKsHgACqH8pSgJmH0JcAhyTLQQ
+
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show
+
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show_logger
+
+718429143 Evgeniy phive4 Lukashevich ВВЕЛ КОМАНДУ /show
+
+<class 'datetime.datetime'> :: 718429143 :: Evgeniy phive4 Lukashevich :: ВВЕЛ КОМАНДУ :: /start
+
+<class 'datetime.datetime'> :: 718429143 :: Evgeniy phive4 Lukashevich :: пытается добавить :: text
+<class 'datetime.datetime'> :: 718429143 :: Evgeniy phive4 Lukashevich :: ВВЕЛ КОМАНДУ :: /show
+
+<class 'datetime.datetime'> :: 718429143 :: Evgeniy phive4 Lukashevich :: пытается добавить :: photo
+<class 'datetime.datetime'> :: 718429143 :: ДОБАВИЛ :: AgACAgIAAxkBAAIBc2PH6tQ1lHtQT_hMUOKKOpxdFiclAALewTEb6oxASvN1bbN6RA0wAQADAgADcwADLQQ
+
+<class 'datetime.datetime'> :: 718429143 :: Evgeniy phive4 Lukashevich :: пытается добавить :: text
+<class 'datetime.datetime'> :: 718429143 :: ДОБАВИЛ :: https://www.youtube.com/watch?v=teV3mxiLVEQ
+
+<class 'datetime.datetime'> :: 718429143 :: Evgeniy phive4 Lukashevich :: ВВЕЛ КОМАНДУ :: /show_logger
+
+2023-01-18 20:52:25.157075 :: 718429143 :: Evgeniy phive4 Lukashevich :: пытается добавить :: photo
+2023-01-18 20:52:25.159080 :: 718429143 :: ДОБАВИЛ :: AgACAgIAAxkBAAIBeGPH64lMObQ6YQ-hkeU4ojuemTd1AAIMwTEbqIU4Sm03K1d2e8oXAQADAgADcwADLQQ
+
+2023-01-18 20:52:44.285568 :: 718429143 :: Evgeniy phive4 Lukashevich :: пытается добавить :: text
+2023-01-18 20:52:44.288567 :: 718429143 :: ДОБАВИЛ :: https://www.youtube.com/watch?v=axRccg-Ehww
+
+2023-01-18 20:52:46.855580 :: 718429143 :: Evgeniy phive4 Lukashevich :: ВВЕЛ КОМАНДУ :: /show
+
+2023-01-18 20:53:08.921572 :: 718429143 :: Evgeniy phive4 Lukashevich :: пытается добавить :: video
+2023-01-18 20:53:08.923572 :: 718429143 :: ДОБАВИЛ :: BAACAgIAAxkBAAIBgGPH67X-a-gWIKNaIyaeeUMziNLcAAJTJAACOukoSs3Uhvcmq_q4LQQ
+
+2023-01-18 20:53:16.362571 :: 718429143 :: Evgeniy phive4 Lukashevich :: ВВЕЛ КОМАНДУ :: /show
+
+2023-01-18 20:53:41.139571 :: 718429143 :: Evgeniy phive4 Lukashevich :: ВВЕЛ КОМАНДУ :: /show_logger
+

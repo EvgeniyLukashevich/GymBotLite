@@ -1,3 +1,3 @@
-from .start_handler import dp
+from .commands_handler import dp
 
 __all__ = ['dp']
