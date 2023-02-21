@@ -51,7 +51,7 @@ async def go_to_show_close(call: CallbackQuery):
 async def go_to_show_left(call: CallbackQuery):
     user_id = call.from_user.id
     try:
-        current_content_name = call.message.caption.split(':')[0]
+        current_content_name = str(call.message.caption).split(': ')[0]
         file_list = files_read(user_id=user_id)
         for i in range(len(file_list)):
             if file_list[i] == current_content_name:
@@ -70,7 +70,7 @@ async def go_to_show_left(call: CallbackQuery):
             await call.message.edit_media(media=media,
                                           reply_markup=show_menu)
     except:
-        current_content_name = call.message.text.split(':')[0]
+        current_content_name = str(call.message.text).split(':')[0]
         file_list = files_read(user_id=user_id)
         for i in range(len(file_list)):
             if file_list[i] == current_content_name:
@@ -99,7 +99,7 @@ async def go_to_show_left(call: CallbackQuery):
 async def go_to_show_right(call: CallbackQuery):
     user_id = call.from_user.id
     try:
-        current_content_name = call.message.caption.split(':')[0]
+        current_content_name = str(call.message.caption).split(': ')[0]
         file_list = files_read(user_id=user_id)
         file_list.reverse()
         for i in range(len(file_list)):
@@ -119,7 +119,7 @@ async def go_to_show_right(call: CallbackQuery):
             await call.message.edit_media(media=media,
                                           reply_markup=show_menu)
     except:
-        current_content_name = call.message.text.split(':')[0]
+        current_content_name = str(call.message.text).split(': ')[0]
         file_list = files_read(user_id=user_id)
         file_list.reverse()
         for i in range(len(file_list)):

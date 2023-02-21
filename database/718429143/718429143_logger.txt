@@ -76,3 +76,12 @@
 
 2023-01-18 20:53:41.139571 :: 718429143 :: Evgeniy phive4 Lukashevich :: ВВЕЛ КОМАНДУ :: /show_logger
 
+2023-01-19 20:20:02.781884 :: 718429143 :: Evgeniy phive4 Lukashevich :: ВВЕЛ КОМАНДУ :: /show
+
+2023-01-19 20:21:40.787992 :: 718429143 :: Evgeniy phive4 Lukashevich :: пытается добавить :: text
+2023-01-19 23:52:04.655568 :: 718429143 :: Evgeniy phive4 Lukashevich :: ВВЕЛ КОМАНДУ :: /start
+
+2023-01-19 23:59:58.385649 :: 718429143 :: Evgeniy phive4 Lukashevich :: ВВЕЛ КОМАНДУ :: /show
+
+2023-01-20 00:06:17.808655 :: 718429143 :: Evgeniy phive4 Lukashevich :: ВВЕЛ КОМАНДУ :: /show
+

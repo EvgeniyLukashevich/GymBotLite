@@ -1,0 +1,33 @@
+655866815 MeanHeen rMeanHeen None ВВЕЛ КОМАНДУ /start
+
+655866815 MeanHeen rMeanHeen None пытается добавить photo
+655866815 ДОБАВИЛ AgACAgIAAxkBAAIBWmPFNbDP4WhReNFla_1dMfvSfawHAAJLwzEb_ZUpSr_yM3sjvhSZAQADAgADcwADLQQ
+
+655866815 MeanHeen rMeanHeen None пытается добавить video
+655866815 ДОБАВИЛ BAACAgIAAxkBAAIBW2PFNcLKRcJOPDM6UkFuGPmWTOE8AAKsHgACqH8pSgJmH0JcAhyTLQQ
+
+655866815 MeanHeen rMeanHeen None пытается добавить photo
+655866815 ДОБАВИЛ AgACAgIAAxkBAAIBXGPFNevBhCLb8dLg9fBLMsho24JxAAKuyDEbqH8pSlxkEKXaVuHRAQADAgADcwADLQQ
+
+655866815 MeanHeen rMeanHeen None пытается добавить photo
+655866815 ДОБАВИЛ AgACAgIAAxkBAAIBXWPFNesS3k3j9nSSLFwfhOKnu6PlAAJMwzEb_ZUpSnpf_uP1o3EvAQADAgADcwADLQQ
+
+655866815 MeanHeen rMeanHeen None пытается добавить photo
+655866815 ДОБАВИЛ AgACAgIAAxkBAAIBXmPFNevYJWwn-O2D4U9QWCGnx4pbAAI-yDEbqH8pSmjKf0tbxK07AQADAgADcwADLQQ
+
+655866815 MeanHeen rMeanHeen None пытается добавить photo
+655866815 ДОБАВИЛ AgACAgIAAxkBAAIBX2PFNevFx2Jh9du2Npbyy6EJGKe6AALlxzEbqH8pSsuLY4NHRLUuAQADAgADcwADLQQ
+
+655866815 MeanHeen rMeanHeen None пытается добавить photo
+655866815 ДОБАВИЛ AgACAgIAAxkBAAIBYGPFNfaGdl6qB-5qqIQQo6sDUytwAAJOwzEb_ZUpSpk5PFpcgN3iAQADAgADcwADLQQ
+
+655866815 MeanHeen rMeanHeen None пытается добавить photo
+655866815 ДОБАВИЛ AgACAgIAAxkBAAIBYWPFNfbkw-iArUXfol8P-66D4d_jAAJPwzEb_ZUpShqGpli2gK-NAQADAgADcwADLQQ
+
+655866815 MeanHeen rMeanHeen None пытается добавить text
+655866815 ДОБАВИЛ https://youtu.be/l-AB7fX10A8
+
+655866815 MeanHeen rMeanHeen None ВВЕЛ КОМАНДУ /show
+
+655866815 MeanHeen rMeanHeen None ВВЕЛ КОМАНДУ /show_logger
+
