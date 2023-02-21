@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
 memory = MemoryStorage()
-bot = Bot(token=os.getenv('TOKEN'), parse_mode='HTML')
+bot = Bot(token=os.getenv('GYMBOT_TOKEN'), parse_mode='HTML')
 dp = Dispatcher(bot, storage=memory)
 
 
