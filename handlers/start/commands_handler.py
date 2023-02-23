@@ -10,7 +10,7 @@ async def start(message: Message):
     command_logger(message)
     user_id = message.from_user.id
     user_name = message.from_user.first_name
-    text = f'Приветствую тебя, {user_name}'
+    text = f'ЗДАРОВА, {user_name}!!!'
     await dp.bot.send_message(user_id, text=text)
 
 
